@@ -1,0 +1,11 @@
+MicroWave Sensor SKU: SEN0192 (a better HB100 implementation)
+https://www.dfrobot.com/wiki/index.php/MicroWave_Sensor_SKU:_SEN0192
+
+HB100 spec sheet (includes circuit diagram for amplifier)
+https://www.limpkin.fr/public/HB100/HB100_Microwave_Sensor_Application_Note.pdf
+
+TMRh20s Project Blog (he wrote the HB100 library)
+http://tmrh20.blogspot.co.uk/2016/06/hb-100-gh1420-10.html
+
+The original GitHub location for the ArduinoFrequency library
+https://github.com/TMRh20/AnalogFrequency
